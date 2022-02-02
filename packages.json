@@ -2,8 +2,8 @@
     "schema_version": "3.0.0",
     "packages": [
         {
-            "name": "ST-Snippets",
-            "details": "https://github.com/ronanchilvers/st-snippets",
+            "name": "RonanChilvers - ST Snippets",
+            "details": "https://github.com/ronanchilvers/st_snippets",
             "releases": [
                 {
                     "sublime_text": "*",
