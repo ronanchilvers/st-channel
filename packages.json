@@ -1,11 +1,15 @@
 {
     "schema_version": "3.0.0",
-    "packages": [{
-        "name": "RonanChilvers - ST Snippets",
-        "details": "https://github.com/ronanchilvers/st_snippets",
-        "releases": [{
-            "sublime_text": "*",
-            "tags": true
-        }]
-    }]
+    "packages": [
+        {
+            "name": "RonanChilvers - ST Snippets",
+            "details": "https://github.com/ronanchilvers/st_snippets",
+            "releases": [
+                {
+                    "sublime_text": "*",
+                    "branch": "main"
+                }
+            ]
+        }
+    ]
 }
