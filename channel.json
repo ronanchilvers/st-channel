@@ -6,12 +6,12 @@
     "packages_cache": {
         "https://raw.githubusercontent.com/ronanchilvers/st_channel/main/packages.json": [
             {
-                "name": "RonanChilvers - Snippets",
+                "name": "RNC - Snippets",
                 "details": "https://github.com/ronanchilvers/st_snippets",
                 "releases": [
                     {
                         "sublime_text": "*",
-                        "branch": "main"
+                        "tags": true
                     }
                 ]
             }

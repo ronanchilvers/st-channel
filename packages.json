@@ -2,12 +2,12 @@
     "schema_version": "3.0.0",
     "packages": [
         {
-            "name": "RonanChilvers - Snippets",
+            "name": "RNC - Snippets",
             "details": "https://github.com/ronanchilvers/st_snippets",
             "releases": [
                 {
                     "sublime_text": "*",
-                    "branch": "main"
+                    "tags": true
                 }
             ]
         }
