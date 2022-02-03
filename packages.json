@@ -1,13 +1,13 @@
 {
-    "schema_version": "3.0.0",
+    "schema_version": "2.0.0",
     "packages": [
         {
             "name": "RNC - Snippets",
-            "details": "https://github.com/ronanchilvers/st_snippets",
+            "details": "https://github.com/ronanchilvers/sublime_snippets",
             "releases": [
                 {
                     "sublime_text": "*",
-                    "tags": true
+                    "details": "https://github.com/ronanchilvers/sublime_snippets",
                 }
             ]
         }
