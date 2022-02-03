@@ -7,7 +7,7 @@
             "releases": [
                 {
                     "sublime_text": "*",
-                    "details": "https://github.com/ronanchilvers/sublime_snippets",
+                    "details": "https://github.com/ronanchilvers/sublime_snippets"
                 }
             ]
         }
